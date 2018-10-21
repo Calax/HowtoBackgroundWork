@@ -1,0 +1,11 @@
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\bin\Debug\netcoreapp2.1\ScheduleWithTaskDelay.deps.json
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\bin\Debug\netcoreapp2.1\ScheduleWithTaskDelay.runtimeconfig.json
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\bin\Debug\netcoreapp2.1\ScheduleWithTaskDelay.runtimeconfig.dev.json
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\bin\Debug\netcoreapp2.1\ScheduleWithTaskDelay.dll
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\bin\Debug\netcoreapp2.1\ScheduleWithTaskDelay.pdb
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\obj\Debug\netcoreapp2.1\ScheduleWithTaskDelay.csprojResolveAssemblyReference.cache
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\obj\Debug\netcoreapp2.1\ScheduleWithTaskDelay.csproj.CoreCompileInputs.cache
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\obj\Debug\netcoreapp2.1\ScheduleWithTaskDelay.AssemblyInfoInputs.cache
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\obj\Debug\netcoreapp2.1\ScheduleWithTaskDelay.AssemblyInfo.cs
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\obj\Debug\netcoreapp2.1\ScheduleWithTaskDelay.dll
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTaskDelay\obj\Debug\netcoreapp2.1\ScheduleWithTaskDelay.pdb

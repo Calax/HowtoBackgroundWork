@@ -1,0 +1,2 @@
+This project represents a demo to show how to run some code as Background service using Microsoft.Extensions.Hosting.BackgroundService.
+It uses infinite loop with Task.Delay to organize calls periodically.

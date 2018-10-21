@@ -1,0 +1,11 @@
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\bin\Debug\netcoreapp2.1\ScheduleWithTimer.deps.json
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\bin\Debug\netcoreapp2.1\ScheduleWithTimer.runtimeconfig.json
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\bin\Debug\netcoreapp2.1\ScheduleWithTimer.runtimeconfig.dev.json
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\bin\Debug\netcoreapp2.1\ScheduleWithTimer.dll
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\bin\Debug\netcoreapp2.1\ScheduleWithTimer.pdb
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\obj\Debug\netcoreapp2.1\ScheduleWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\obj\Debug\netcoreapp2.1\ScheduleWithTimer.AssemblyInfoInputs.cache
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\obj\Debug\netcoreapp2.1\ScheduleWithTimer.AssemblyInfo.cs
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\obj\Debug\netcoreapp2.1\ScheduleWithTimer.dll
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\obj\Debug\netcoreapp2.1\ScheduleWithTimer.pdb
+C:\Users\Yugov\Projects\dotnetcore\howto_recurringtasks\ScheduleWithTimer\obj\Debug\netcoreapp2.1\ScheduleWithTimer.csprojResolveAssemblyReference.cache
